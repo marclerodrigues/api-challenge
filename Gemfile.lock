@@ -109,6 +109,7 @@ GEM
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+    pagy (3.11.0)
     pg (1.2.3)
     pry (0.13.1)
       coderay (~> 1.1)
@@ -231,6 +232,7 @@ DEPENDENCIES
   factory_bot_rails
   jbuilder (~> 2.7)
   listen (~> 3.3)
+  pagy (~> 3.5)
   pg (~> 1.1)
   pry-byebug
   puma (~> 5.0)
